@@ -1,7 +1,7 @@
 streamlit
-yfinance
 pandas
 numpy
-matplotlib
 seaborn
+matplotlib
 Pillow==9.5.0  
+pip==24.2  
